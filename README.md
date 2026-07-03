@@ -8,6 +8,7 @@ First, obtain your API key from TMDB and add it in a file named apikey.propertie
 YOUR_API_KEY=********************************
 
 Then, replace it in the build.gradle(:app)
+
  buildConfigField("String", "YOUR_API_KEY","\"${apikeyProperties["YOUR_API_KEY"]}\"" )
  
  Finally, rebuild the project for changes to take effect
