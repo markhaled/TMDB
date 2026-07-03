@@ -14,17 +14,17 @@ Then, replace it in the build.gradle(:app)
 
  ## Tech Stack
  
-Technology                      Purpose
-
- kotlin                          Programming Language
- MVVM                            Architecture
- Jetpack Compose                 UI
- Hilt                            Dependency injection
- Room                            Local Database
- Retrofit                        API Communication
- Compose Destination             Navigation
- Paging3                         Pagination
- Landscapist - CoilImage         Image Loading
- Coroutiens                      Asynchronous Programming
- Flow                            Reactive UI
- Lottie                          Animation
+ | Technology              |     Purpose |
+ |-------------------------|-------------|
+ | kotlin | Programming Language |
+ | MVVM | Architecture |
+ | Jetpack Compose | UI |
+ | Hilt | Dependency injection |
+ | Room | Local Database |
+ | Retrofit | API Communication |
+ | Compose Destination | Navigation |
+ | Paging3 | Pagination |
+ | Landscapist - CoilImage | Image Loading |
+ | Coroutiens | Asynchronous Programming |
+ | Flow | Reactive UI |
+ | Lottie | Animation |
